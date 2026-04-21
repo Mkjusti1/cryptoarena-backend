@@ -25,6 +25,7 @@ app.use(
       'http://localhost:3001',
       'https://cryptoarena.vercel.app',
       'https://cryptoarena-frontend.vercel.app',
+      'https://cryptoarena-frontend-snowy.vercel.app',
     ],
     credentials: true,
   })
